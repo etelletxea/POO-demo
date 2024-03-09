@@ -1,4 +1,6 @@
 // Modificaoo el 9-3-2024 test hoy
+// Modificado por devportatil
+
 public class Alfombra {
     private double coste;
     public Alfombra(double coste)
