@@ -1,4 +1,4 @@
-// Modificaoo el 9-3-2024
+// Modificaoo el 9-3-2024 test hoy
 public class Alfombra {
     private double coste;
     public Alfombra(double coste)
